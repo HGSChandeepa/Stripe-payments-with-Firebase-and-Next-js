@@ -1,22 +1,6 @@
-# Stripe Firebase App
+# Stripe payments with Firebase and Next-js
 
-This is a NextJS app that integrates Firebase with Stripe payments (for monthly subscriptions). To try it out, install all the dependencies:
-
-```bash
-yarn install
-# OR
-npm install
-```
-
-Then run the development server:
-
-```bash
-yarn dev
-# OR
-npm run dev
-```
-
-You'll also need to replace the Firebase SDK keys in `src/firebase.ts` and Stripe price ID in `src/account/page.tsx` with your own stuff.
+This is a NextJS app that integrates Firebase with Stripe payments (for monthly subscriptions). To try it out, install all the dependencies.
 
 # Tech Stack
 
